@@ -1,4 +1,4 @@
-## Projects
+## Awards & Leadership
 
 ### HackMTY First Place Winner
 
@@ -6,7 +6,15 @@
 
 ### HackPrepas First Place Winner
 
-###
+
+
+## School Work (Projects, Assignments, Notes)
+Programming Fundamentals [GitHub Repository] (https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96
+Object Oriented Programming [GitHub Repository] (https://github.com/jaimehisao/ProgramacionOrientadaAObjetosITESM) Final Grade: 
+
+## Personal Projects
+
+
 
 
 
