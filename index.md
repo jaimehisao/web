@@ -16,15 +16,23 @@
 ## Work Experience 
 
 ### Sigma Alimentos Intern (June 2018 - July 2019)
-During this time as an IT Intern in Sigma Alimentos
+During this time as an IT Intern in Sigma Alimentos I worked in various departments, in order to explore and see which areas were of my interest. 
 
 ### Sigma Alimentos Intern (December 2017 - January 2018)
-During this time as an IT Intern in Sigma Alimentos I worked to design and develop Industry 4.0 IoT implementation
+During this time as an IT Intern in Sigma Alimentos I worked to design and develop Industry 4.0 IoT implementation for use in the company's Offices, Factorys and Distribution Centers.
+
+
+## Education
+Instituto Tecnologico y de Estudios Superiores de Monterrey (Tec de Monterrey)
+In Monterrey, Nuevo Leon, México
+Bachelor in Computer Science (ITC) 
+Expected Graduation in December 2022
+
 
 
 ## School Work (Projects, Assignments, Notes)
 Programming Fundamentals [GitHub Repository] (https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96
-Object Oriented Programming [GitHub Repository] (https://github.com/jaimehisao/ProgramacionOrientadaAObjetosITESM) Final Grade: 
+Object Oriented Programming [GitHub Repository] (https://github.com/jaimehisao/ProgramacionOrientadaAObjetos) Final Grade: 
 
 ## Personal Projects
 
