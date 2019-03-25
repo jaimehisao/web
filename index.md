@@ -2,10 +2,24 @@
 
 ### HackMTY First Place Winner
 
-### RoboCup Junior Rescue Maze First Place Winner
+### RoboCup Junior Rescue Maze Mexico National First Place Winner
+
+### RoboCup Junior Rescue Maze Mexico North Regional Second Place Winner
 
 ### HackPrepas First Place Winner
 
+### FIRST Robotics Competition Team Member & Robotics Club Vicepresident (Team Cyberius 6017)
+
+###
+
+
+## Work Experience 
+
+### Sigma Alimentos Intern (June 2018 - July 2019)
+During this time as an IT Intern in Sigma Alimentos
+
+### Sigma Alimentos Intern (December 2017 - January 2018)
+During this time as an IT Intern in Sigma Alimentos I worked to design and develop Industry 4.0 IoT implementation
 
 
 ## School Work (Projects, Assignments, Notes)
