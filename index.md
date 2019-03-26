@@ -31,8 +31,9 @@ Expected Graduation in December 2022
 
 
 ## School Work (Projects, Assignments, Notes)
-Programming Fundamentals [GitHub Repository] (https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96
-Object Oriented Programming [GitHub Repository] (https://github.com/jaimehisao/ProgramacionOrientadaAObjetos) Final Grade: 
+Programming Fundamentals [GitHub Repository](https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96  
+
+Object Oriented Programming [GitHub Repository](https://github.com/jaimehisao/ProgramacionOrientadaAObjetos) Final Grade: 
 
 ## Personal Projects
 
