@@ -10,17 +10,14 @@
 
 ### FIRST Robotics Competition Team Member & Robotics Club Vicepresident (Team Cyberius 6017)
 
-###
-
 
 ## Work Experience 
 
 ### Sigma Alimentos Intern (June 2018 - July 2019)
-During this time as an IT Intern in Sigma Alimentos I worked in various departments, in order to explore and see which areas were of my interest. 
+During this time as an IT Intern in Sigma Alimentos I worked in various departments, in order to explore and see which areas were of my interest. I was most interested in the Distributed Computing area, which specializes in everything IT that isn't data infraestructure or Business Inteligence. During this time, I worked with my mentor to analyze and discover solutions to the problems that the business had IT wise. 
 
 ### Sigma Alimentos Intern (December 2017 - January 2018)
-During this time as an IT Intern in Sigma Alimentos I worked to design and develop Industry 4.0 IoT implementation for use in the company's Offices, Factorys and Distribution Centers.
-
+During this time as an IT Intern in Sigma Alimentos I worked to design and develop Industry 4.0 IoT implementation for use in the company's Offices, Factories and Distribution Centers. The research was carried out by another Intern and I, and we were in constant contact with our mentors that helped us go in the right way. We contacted various suppliers and IT solution providers and we ran some tests on the IoT devices to determine their functionality and value to the company. 
 
 ## Education
 Instituto Tecnologico y de Estudios Superiores de Monterrey (Tec de Monterrey)
@@ -28,15 +25,14 @@ In Monterrey, Nuevo Leon, México
 Bachelor in Computer Science (ITC) 
 Expected Graduation in December 2022
 
-
-
 ## School Work (Projects, Assignments, Notes)
-Programming Fundamentals [GitHub Repository](https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96  
+Programming Fundamentals [GitHub Repository](https://github.com/jaimehisao/FundamentosDeProgramacionITESM) Final Grade: 96/100  
 
-Object Oriented Programming [GitHub Repository](https://github.com/jaimehisao/ProgramacionOrientadaAObjetos) Final Grade: 
+Object Oriented Programming [GitHub Repository](https://github.com/jaimehisao/ProgramacionOrientadaAObjetos) 
 
 ## Personal Projects
 
+### Raspberry Pi Car Computer & Logger
 
 
 
