@@ -11,7 +11,7 @@
     Esta página se encuentra en mantenimiento!
 </div>
 
-<h1>Jaime Hisao Yesaki Hinojosa <span class="badge bg-secondary" class="center">Nueva</span></h1>
+<h1 class="text-center">Jaime Hisao Yesaki Hinojosa <span class="badge bg-secondary" class="center">Nueva</span></h1>
 
 <div class="container">
     <div class="row">
@@ -51,37 +51,23 @@
                 <div class="card-body">
                     <h5 class="card-title">Hisao</h5>
                     <p class="card-text">Soy Hisao y tengo 22 años y estudio en el Tec de Monterrey. Aspiro a ser un grán programador.</p>
-                    <a href="https://github.com/jaimehisao" class="btn btn-primary">Github</a>
+                    <a href="https://github.com/jaimehisao" class="btn btn-primary">Mi Github</a>
+                    <br>
+                    <button type="button" class="btn btn-warning" onclick="location.href='https://www.youtube.com/channel/UCu_PXOxUg_LHCi3oeU3kKdg'">Link a mi Canal de Youtube</button>
+
                 </div>
             </div>
         </div>
     </div>
 </div>
 <br>
-<div class="container px-4">
-    <div class="row gx-5">
-        <div class="col">
-            <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                    Dropdown button
-                </button>
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                    <li><a class="dropdown-item" href="https://www.w3schools.com/">Apple MX</a></li>
-                    <li><a class="dropdown-item" href="https://www.w3schools.com/">Microsoft</a></li>
-                    <li><a class="dropdown-item" href="https://www.w3schools.com/">Facebook</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="col">
-            <button type="button" class="btn btn-warning" onclick="location.href='https://www.youtube.com/channel/UCu_PXOxUg_LHCi3oeU3kKdg'">Link a mi Canal de Youtube</button>
-        </div>
-    </div>
-</div>
+
 
 <br>
 
-<h3>Datos de mi</h3>
-<div class="d-flex p-2">
+
+<h3 class="text-center">Datos de mi</h3>
+<div class="justify-content-center d-flex p-2">
     <div class="accordion" id="accordionPanelsStayOpenExample">
         <div class="accordion-item">
             <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -109,8 +95,20 @@
         </div>
     </div>
 </div>
-</div>
-</div>
+
+<h3 class="text-center">Contactame!</h3>
+<form class="justify-content-center d-flex p-2">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Dirección de Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Tu Email">
+        <small id="emailHelp" class="form-text text-muted">Tu correo es confidencial.</small>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Contraseña</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Contraseña Secreta">
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
 
 </body>
 </html>
