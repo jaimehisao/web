@@ -1,15 +1,16 @@
 <template>
   <html>
-  <head></head>
+  <head>
+  </head>
   <body>
   <h2 v-if="dog_slider == cat_slider"> Te gustan los perros y gatos por igual</h2>
   <h2 v-else-if="dog_slider > cat_slider"> Definitivamente te gustan más los perros.</h2>
   <h2 v-else>Tristemente te gustan los gatos</h2>
   <p>Tendrías un perro?</p>
-  <input type="range" min="0" max="100" style="width:300px;" id="dog_slider" v-model="dog_slider">
+    <input type="range" min="0" max="99" style="width:500px;" id="dog_slider" v-model="dog_slider">
   <br>
   <p>Tendrías un gato?</p>
-  <input type="range" min="0" max="100" style="width:300px;" id="cat_slider" v-model="cat_slider">
+    <input type="range" min="0" max="100" style="width:500px;" id="cat_slider" v-model="cat_slider">
   </body>
   </html>
 </template>

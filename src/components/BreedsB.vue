@@ -3,7 +3,7 @@
   <head></head>
   <body>
   <div>
-    <h2>My favorite dog breeds:</h2>
+    <h2>Mis mascotas exoticas favoritas:</h2>
     <ul id="example-1">
       <li v-for="item in list" :key="item.breed">
         {{ item.breed }}
@@ -18,11 +18,11 @@
 export default {
   data() {
     let list = [
-      { breed: 'schnauzer' },
-      { breed: 'golden' },
-      { breed: 'french bulldog' },
-      { breed: 'husky' },
-      { breed: 'dalmatian' }
+      { breed: 'erizos' },
+      { breed: 'hurones' },
+      { breed: 'pajaros' },
+      { breed: 'chihuahuas pelo largo' },
+      { breed: 'tortugas' }
     ]
     return {
       list: list
