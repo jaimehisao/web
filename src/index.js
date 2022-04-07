@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Menu from './components/menu/menu'
+import "bootstrap/dist/css/bootstrap.min.css"
 
 function Square(props) {
     return (
@@ -108,6 +110,9 @@ class Game extends React.Component {
 
         return (
             <div className="game">
+                <Menu />
+                <br></br>
+                <br></br>
                 <div className="game-board">
                     <Board
                         squares={current.squares}
@@ -118,6 +123,8 @@ class Game extends React.Component {
                     <div>{status}</div>
                     <ol>{moves}</ol>
                 </div>
+                <br></br>
+                <br></br>
             </div>
         );
     }
@@ -125,7 +132,8 @@ class Game extends React.Component {
 
 // ========================================
 
-ReactDOM.render(<Game />, document.getElementById("root"));
+ReactDOM.render(
+    <Game />, document.getElementById("root"));
 
 function calculateWinner(squares) {
     const lines = [
